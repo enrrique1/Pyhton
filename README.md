@@ -1,7 +1,7 @@
 # Pyhton
 Python scripts:
 
-Sript: sum_Text_numbers
+Script: sum_Text_numbers
 
 Description:
 
